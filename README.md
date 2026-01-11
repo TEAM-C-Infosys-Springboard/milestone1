@@ -28,7 +28,14 @@ Further milestones will be added as the project progresses.
 ---
 
 ## 👥 Team
-This is a group project developed as part of academic coursework.
+This is a group project developed as part of Infosys Springboard Virtual Internship 6.0
+
+TEAM: 
+Divyappriya S
+Manashi Debnath
+HariPriyan 
+Devansh Tantway
+Shaik Mahaboob Basha
 
 ---
 
