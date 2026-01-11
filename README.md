@@ -31,11 +31,11 @@ Further milestones will be added as the project progresses.
 This is a group project developed as part of Infosys Springboard Virtual Internship 6.0
 
 TEAM: 
-Divyappriya S
-Manashi Debnath
-HariPriyan 
-Devansh Tantway
-Shaik Mahaboob Basha
+Divyappriya S,
+Manashi Debnath,
+HariPriyan,
+Devansh Tantway,
+Shaik Mahaboob Basha.
 
 ---
 
